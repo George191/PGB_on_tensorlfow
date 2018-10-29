@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/PythonProjects/PGB on tensorlfow/model/poems-48"
+all_model_checkpoint_paths: "D:/PythonProjects/PGB on tensorlfow/model/poems-48poems-24"
+all_model_checkpoint_paths: "D:/PythonProjects/PGB on tensorlfow/model/poems-48poems-30"
+all_model_checkpoint_paths: "D:/PythonProjects/PGB on tensorlfow/model/poems-48poems-36"
+all_model_checkpoint_paths: "D:/PythonProjects/PGB on tensorlfow/model/poems-48poems-42"
+all_model_checkpoint_paths: "D:/PythonProjects/PGB on tensorlfow/model/poems-48poems-48"
